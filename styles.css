@@ -1,0 +1,77 @@
+/***************************
+MAIN STYLES
+***************************/
+.container {
+    background: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    align-items: center;
+justify-content: center;
+}
+
+h1{
+color: hsl(218, 44%, 22%);
+font-size: 20px;
+margin: 5%;
+}
+
+
+p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    text-align: center;
+    padding: 0 5px 25px 5px;
+    margin: 0 5px;
+}
+
+img {
+    border-radius: 20px;
+    width: 90%;
+    height: auto;
+    margin: 10px 5px;
+    /*padding: px 2px 0 2px;*/
+}
+
+
+.main {
+    background: hsl(0, 0%, 100%);
+    border-radius: 25px;
+/*height: 600px;*/
+    width: 20%;
+    box-shadow: 5px hsl(0, 0%, 100%);
+text-align: center;
+}
+
+.attribution { 
+    font-size: 11px;
+    outline: 2px solid blue;
+visibility: hidden;
+    /*position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+    text-align: center;*/
+
+}
+.attribution a { 
+    color: hsl(0, 0%, 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
